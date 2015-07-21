@@ -1,6 +1,3 @@
-Just testing out the text file.
-Testing out the file again.
-Test again.
 Commit 1.
 Commit 2.
 Commit 3.
